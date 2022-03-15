@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(55, 124, 228);
+  background-color: rgb(55, 124, 228);
 }
+
 h1 {
   text-align: center;
   padding: 200px 0 200px;
   color: #e6d00b;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 70px;
 }
-
