@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> Testing my knowlegde of github flow 
+> Testing github flow, linters and gitignore.
 
 
 ## Built With
